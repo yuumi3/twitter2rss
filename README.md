@@ -26,4 +26,4 @@ crontabの例
 
 [MIT License](http://www.opensource.org/licenses/MIT).
 
-markup_tweet.rb は [yayugu/twitterGoodRSS](https://github.com/yayugu/twitterGoodRSS) のものを利用しています、ありがとうございます。
+markup_tweet.rb は [yayugu/twitterGoodRSS](https://github.com/yayugu/twitterGoodRSS) のものを利用しています、ありがとうございます。
